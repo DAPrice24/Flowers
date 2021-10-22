@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:,wght@1,800&display=swap');
+body{
+     background-color: #a2d39c;
+     color:#440e62; 
+     font-family: 'Noto Serif Display', serif;
+}
+
+h1 {
+    color: #440e62;
+}
+
+header{
+     background-color:  #8d6d9f;
+     text-align: center;
+}
+
+
+.button1{
+display: inline-block;
+height: 80px;
+width: 150px;
+}
+
+.button1:hover {
+background: url("images/nav_home_act.gif") no-repeat;
+height: 80px;
+width: 150px;
+}
+
+.button2{
+    display: inline-block;
+    height: 80px;
+    width: 150px;
+    }
+
+    .button2:hover {
+        background: url("images/nav_about_act.gif") no-repeat;
+        height: 80px;
+        width: 150px;
+        }
+
+.button3{
+       display: inline-block;
+            height: 80px;
+            width: 150px;
+            }
+            
+    .button3:hover {
+         background: url("images/nav_contact_act.gif") no-repeat;
+         height: 80px;
+         width: 150px;
+            }
+
+.button4{
+           display: inline-block;
+                height: 80px;
+                width: 150px;
+                }
+                
+    .button4:hover {
+             background: url("images/nav_gallery_act.gif") no-repeat;
+             height: 80px;
+             width: 150px;
+                }
+    
+.button5{
+               display: inline-block;
+                    height: 80px;
+                    width: 150px;
+                    }
+                    
+    .button5:hover {
+                 background: url("images/nav_links_act.gif") no-repeat;
+                 height: 80px;
+                 width: 150px;
+                    }
+
+.button6{
+                   display: inline-block;
+                        height: 80px;
+                        width: 150px;
+                        }
+                        
+    .button6:hover {
+                     background: url("images/nav_ordering_act.gif") no-repeat;
+                     height: 80px;
+                     width: 150px;
+                        }
+
+      table, td {
+          border: 2px solid black;
+          table-layout: fixed;
+          background-color: #82a97d;
+                       }
+     
+          image{
+            text-justify: right;   
+          }
+          
